@@ -29,5 +29,6 @@
 - [Invite Link](https://dsc.gg/rhyne/)
 - [Privacy Policy](https://rhivyofficial.gitbook.io/rhyne_discord_bot/privacy-policy/)
 - [Terms of Service](https://rhivyofficial.gitbook.io/rhyne_discord_bot/)
+- [Source Code](https://github.com/RhyneOfficial/rhyne-bot/)
 
 #### ~Rhyne Team
