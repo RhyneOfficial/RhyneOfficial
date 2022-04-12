@@ -55,6 +55,6 @@
 - [Youtube](https://youtube.com/channel/UC1-oRS1FY-wTFuNzM4qMGRQ)
 - [Instagram](https://instagram.com/@rhyne.official)
 - [Partners 1](https://dsc.gg/nemo)
-- [Partners 2](https:kiras.tk)
+- [Partners 2](https://kiras.tk)
 
 #### Rhyne Team
