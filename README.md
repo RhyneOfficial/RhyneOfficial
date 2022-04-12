@@ -13,23 +13,46 @@
 ### Prefix
 - r.
 
-### Commands List
-- Play
-- Disconnect
-- Move
-- Queue
-- Stats
-- Help
-- Config
-- Loop
-- Volume
-- and much more!
+## Commands List
+
+### Slash Commands
+
+- /help
+- /invite
+- [ coming soon ]
+
+### Music Commands
+
+- r.bassboost
+- r.clear
+- r.disconnect
+- r.grab
+- r.loop 
+- r.lyrics 
+- r.nowplaying
+- r.pause
+- r.play 
+- r.queue
+- r.search
+- r.skip
+- r.skipto
+- r.volume
+ 
+
+### Info Commands
+
+- r.config 
+- r.help
+- r.invite
+- r.stats
 
 ### Link
-- [Support Server](https://dsc.gg/rhyne.support/)
-- [Invite Link](https://dsc.gg/rhyne/)
-- [Privacy Policy](https://rhivyofficial.gitbook.io/rhyne_discord_bot/privacy-policy/)
-- [Terms of Service](https://rhivyofficial.gitbook.io/rhyne_discord_bot/)
-- [Source Code](https://github.com/RhyneOfficial/rhyne-bot/)
+- [Support](https://dsc.gg/rhyne.support/)
+- [Invite](https://dsc.gg/rhyne/)
+- [Policy](https://rhivyofficial.gitbook.io/rhyne_discord_bot/privacy-policy/)
+- [Terms](https://rhivyofficial.gitbook.io/rhyne_discord_bot/)
+- [Github](https://github.com/RhyneOfficial/rhyne-bot/)
+- [Youtube](https://youtube.com/channel/UC1-oRS1FY-wTFuNzM4qMGRQ)
+- [Instagram](https://instagram.com/@rhyne.official)
 
-#### ~Rhyne Team
+#### Rhyne Team
