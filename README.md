@@ -2,11 +2,12 @@
 ## Rhyne is the best discord music bot
 
 ### Status
-- Online 24/7
+- Online 24/7.
 
 ### Features
-- Lag free music
-- Server Settings
+- Slash Commands.
+- Lag free music.
+- Server Settings.
 - Youtube, spotify support.
 
 ### Prefix
