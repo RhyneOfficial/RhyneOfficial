@@ -46,7 +46,7 @@
 - r.invite
 - r.stats
 
-### Link
+### Links
 - [Support](https://dsc.gg/rhyne.support/)
 - [Invite](https://dsc.gg/rhyne/)
 - [Policy](https://rhivyofficial.gitbook.io/rhyne_discord_bot/privacy-policy/)
