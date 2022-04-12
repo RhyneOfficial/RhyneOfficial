@@ -54,5 +54,7 @@
 - [Github](https://github.com/RhyneOfficial/rhyne-bot/)
 - [Youtube](https://youtube.com/channel/UC1-oRS1FY-wTFuNzM4qMGRQ)
 - [Instagram](https://instagram.com/@rhyne.official)
-- [Contact](rhivyofficial@gmail.com)
+- [Partners 1](https://dsc.gg/nemo)
+- [Partners 2](https:kiras.tk)
+
 #### Rhyne Team
